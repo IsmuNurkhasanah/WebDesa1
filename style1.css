@@ -1,0 +1,46 @@
+*{margin: 0px,padding: 0px}
+.wrapper{
+  width: cover;
+  height: auto;
+  border: 0px solid ;
+  margin: 0px auto;
+  padding: 10px;
+  background-image: url(login.jpg);
+  background-size: cover;
+}
+.Kotak-Masuk{
+  width:300px;
+  height: 300px;
+  border: 0px solid;
+  margin: 200px auto;
+
+}
+.Judul-Masuk{
+  width:100% auto;
+  height: 75px;
+  border: 1px solid;
+  text-align: center;
+  line-height: 75px;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: black;
+  color: white;
+}
+.Masuk{
+    width: 100% auto;
+    height: 225px;
+    border: 1px solid;
+    padding: 0px;
+    margin-top: 0px;
+    text-align: center;
+    background-color: white;
+    color: white;
+}
+.Masuk form{
+  margin-top: 40px;
+}
+.Masuk form input{
+  margin-top: 10px;
+  width: 250px;
+  height: 30px;
+}
